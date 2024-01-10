@@ -1,0 +1,12 @@
+Steps to building projects:
+
+1- Understanding business requirements 
+
+2- Planning
+(using miro)
+
+3- Execution
+
+4- Testing and Debugging
+
+5- Continuous Improvement
